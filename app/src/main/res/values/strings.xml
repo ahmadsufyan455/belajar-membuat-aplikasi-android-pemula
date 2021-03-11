@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Moto</string>
+    <string name="detail_moto">Detail Moto</string>
+    <string name="detail_mesin">Detail Mesin</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_name">Ahmad Sufyan Tsauri</string>
+    <string name="my_email">ahmadsufyan514@gmail.com</string>
+</resources>
